@@ -1,0 +1,6 @@
+Test Case ID,Enabled,Description,firstname,surename,phone,street,city,country,postcode,email,password,confirmPassword,errMsg
+signup,0,empty  fileds,,,,,,,,,,,Fillout the fileds!
+signup,0,No Confirm password,john,Garcia,115698756,"SamanalaUyana, Lane",Colombo,Sri Lanka,11200,john.G1@gmail.com,5678,,Give ConfirmPassword
+signup,1,signup,Rashmika,Jayasekara,773959306,"106/Akkara 05,",Nawalapitiya,Sri Lanka,10115,rashmikajay16@gmail.com,123456,123456,
+,,,,,,,,,,,,,
+,,       ,,,,,,,,,,,

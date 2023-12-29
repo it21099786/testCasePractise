@@ -1,0 +1,11 @@
+Test Case ID,Enabled,Description,userName,password,errMsg
+login,0,empty fileds,,,Your username is invalid! 
+login,0,only password,,123456,Your username is invalid! 
+login,1,only username ,rashmikajay16@gmail.com,,Enter your Email address and password correct
+login,1,non existing username ,creativelogodesigner@gmail.com,,Enter your Email address and password correct
+login,1,non existing fileds,creativelogodesigner@gmail.com,euyuyeuy,Enter your Email address and password correct
+login,1,corresponding password in letters,rashmikajay16@gmail.com,PASSWORD123456,Enter your Email address and password correct
+login,1,both in capital,RASHMIKAJAY16,PASSWORD,Enter your Email address and password correct
+login,1,registered email in invalid format,creativelogodesigner124.gmail.com,123456,Enter your Email address and password correct
+login,1,incorrect password,rashmikajay16@gmail.com,euyuyeuy,Enter your Email address and password correct
+login,1,correct fileds ,rashmikajay16@gmail.com,123456,

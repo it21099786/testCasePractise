@@ -1,0 +1,73 @@
+2023-12-29 14:38:41,930 Ig	Console				 Steps file not found: C:\Practise\guruInsurance\Console\Console.csv 
+2023-12-29 14:38:41,931 Ig	SavePerson				 Steps file not found: C:\Practise\guruInsurance\SavePerson\SavePerson.csv 
+2023-12-29 14:38:41,931 Ig	Login_1				 Steps file not found: C:\Practise\guruInsurance\Login_1\Login_1.csv 
+2023-12-29 14:38:41,931 Ig	Logout_1				 Steps file not found: C:\Practise\guruInsurance\Logout_1\Logout_1.csv 
+2023-12-29 14:38:41,931 Ig	DepositCash				 Steps file not found: C:\Practise\guruInsurance\DepositCash\DepositCash.csv 
+2023-12-29 14:38:41,931 Ig	QueryOptimization				 Steps file not found: C:\Practise\guruInsurance\QueryOptimization\QueryOptimization.csv 
+2023-12-29 14:38:41,932 Ig	OpenZeenUI				 Steps file not found: C:\Practise\guruInsurance\OpenZeenUI\OpenZeenUI.csv 
+2023-12-29 14:38:41,932 Ig	OpenProject				 Steps file not found: C:\Practise\guruInsurance\OpenProject\OpenProject.csv 
+2023-12-29 14:38:41,932 Ig	NavExpo				 Steps file not found: C:\Practise\guruInsurance\NavExpo\NavExpo.csv 
+2023-12-29 14:38:41,932 Ig	LoginExpo				 Steps file not found: C:\Practise\guruInsurance\LoginExpo\LoginExpo.csv 
+2023-12-29 14:38:41,932 Ig	Loading				 Steps file not found: C:\Practise\guruInsurance\Loading\Loading.csv 
+2023-12-29 14:38:41,932 Ig	jbOpenPortal				 Steps file not found: C:\Practise\guruInsurance\jbOpenPortal\jbOpenPortal.csv 
+2023-12-29 14:38:41,933 Ig	jbDataEntryBasic				 Steps file not found: C:\Practise\guruInsurance\jbDataEntryBasic\jbDataEntryBasic.csv 
+2023-12-29 14:38:41,933 Ig	curl				 Steps file not found: C:\Practise\guruInsurance\curl\curl.csv 
+2023-12-29 14:38:41,933 Ig	apiDataEntryBasic				 Steps file not found: C:\Practise\guruInsurance\apiDataEntryBasic\apiDataEntryBasic.csv 
+2023-12-29 14:38:41,934 Ig	AppConfig				 Steps file not found: C:\Practise\guruInsurance\AppConfig\AppConfig.csv 
+2023-12-29 14:38:59,209 EX    17083ms 2,2    Navigated to         https://demo.guru99.com/insurance/v1/register.php 	 
+2023-12-29 14:39:00,560 EX      320ms 4,2    Clicked              user_title 	 
+2023-12-29 14:39:01,876 EX      304ms 4,3    Clicked              //*[@id="user_title"]/option[3] 	 
+2023-12-29 14:39:03,062 EX      177ms 4,4    Entered text in      user_firstname 	 
+2023-12-29 14:39:04,244 EX      178ms 4,5    Entered text in      user_surname 	 
+2023-12-29 14:39:05,342 EX       95ms 4,6    Entered text in      user_phone 	 
+2023-12-29 14:39:06,697 EX      340ms 4,7    Clicked              user_dateofbirth_1i 	 
+2023-12-29 14:39:07,960 EX      261ms 4,8    Clicked              /html/body/div[3]/form/div[2]/div[3]/select[1]/option[3] 	 
+2023-12-29 14:39:09,334 EX      363ms 4,9    Clicked              user_dateofbirth_2i 	 
+2023-12-29 14:39:10,608 EX      261ms 4,10   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[2]/option[3] 	 
+2023-12-29 14:39:11,945 EX      325ms 4,11   Clicked              user_dateofbirth_3i 	 
+2023-12-29 14:39:13,225 EX      269ms 4,12   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[3]/option[10] 	 
+2023-12-29 14:39:14,502 EX      271ms 4,13   Clicked              /html/body/div[3]/form/div[2]/div[4]/label[2] 	 
+2023-12-29 14:39:15,888 EX      370ms 4,14   Clicked              user_licenceperiod 	 
+2023-12-29 14:39:17,166 EX      270ms 4,15   Clicked              /html/body/div[3]/form/div[2]/div[5]/select/option[13] 	 
+2023-12-29 14:39:18,513 EX      344ms 4,16   Clicked              user_occupation_id 	 
+2023-12-29 14:39:19,776 EX      255ms 4,17   Clicked              /html/body/div[3]/form/div[2]/div[6]/select/option[18] 	 
+2023-12-29 14:39:20,927 EX      142ms 4,18   Entered text in      user_address_attributes_street 	 
+2023-12-29 14:39:22,071 EX      139ms 4,19   Entered text in      user_address_attributes_city 	 
+2023-12-29 14:39:23,193 EX      112ms 4,20   Entered text in      user_address_attributes_county 	 
+2023-12-29 14:39:24,296 EX       89ms 4,21   Entered text in      user_address_attributes_postcode 	 
+2023-12-29 14:39:25,441 EX      133ms 4,22   Entered text in      user_user_detail_attributes_email 	 
+2023-12-29 14:39:26,534 EX       91ms 4,23   Entered text in      user_user_detail_attributes_password 	 
+2023-12-29 14:39:27,650 EX      107ms 4,24   Entered text in      user_user_detail_attributes_password_confirmation 	 
+2023-12-29 14:39:30,512 EX     1856ms 4,25   Clicked              /html/body/div[3]/form/div[5]/input[2] 	 
+2023-12-29 14:39:31,671 EX       60ms 4,2    Entered text in      //*[@id="email"] 	 
+2023-12-29 14:39:32,766 EX       91ms 4,3    Entered text in      //*[@id="password"] 	 
+2023-12-29 14:39:35,378 EX     1596ms 4,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 14:39:36,429 EX       45ms 4,5    Verified text in     /html/body/div[3]/form/div[2]/span/b 	 
+2023-12-29 14:39:37,567 EX      127ms 5,2    Entered text in      //*[@id="email"] 	 
+2023-12-29 14:39:38,692 EX      120ms 5,3    Entered text in      //*[@id="password"] 	 
+2023-12-29 14:39:41,159 EX     1455ms 5,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 14:39:42,221 EX       45ms 5,5    Verified text in     /html/body/div[3]/form/div[2]/span/b 	 
+2023-12-29 14:39:43,402 EX      176ms 6,2    Entered text in      //*[@id="email"] 	 
+2023-12-29 14:39:44,585 EX      183ms 6,3    Entered text in      //*[@id="password"] 	 
+2023-12-29 14:39:46,881 EX     1290ms 6,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 14:39:47,955 EX       60ms 6,5    Verified text in     /html/body/div[3]/form/div[2]/span/b 	 
+2023-12-29 14:39:49,059 EX      100ms 7,2    Entered text in      //*[@id="email"] 	 
+2023-12-29 14:39:50,181 EX      117ms 7,3    Entered text in      //*[@id="password"] 	 
+2023-12-29 14:39:52,491 EX     1308ms 7,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 14:39:53,517 EX       23ms 7,5    Verified text in     /html/body/div[3]/form/div[2]/span/b 	 
+2023-12-29 14:39:54,684 EX      153ms 8,2    Entered text in      //*[@id="email"] 	 
+2023-12-29 14:39:55,772 EX       75ms 8,3    Entered text in      //*[@id="password"] 	 
+2023-12-29 14:39:58,109 EX     1330ms 8,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 14:39:59,149 EX       32ms 8,5    Verified text in     /html/body/div[3]/form/div[2]/span/b 	 
+2023-12-29 14:40:00,252 EX      101ms 9,2    Entered text in      //*[@id="email"] 	 
+2023-12-29 14:40:01,357 EX      101ms 9,3    Entered text in      //*[@id="password"] 	 
+2023-12-29 14:40:03,859 EX     1488ms 9,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 14:40:04,896 EX       30ms 9,5    Verified text in     /html/body/div[3]/form/div[2]/span/b 	 
+2023-12-29 14:40:06,030 EX      122ms 10,2   Entered text in      //*[@id="email"] 	 
+2023-12-29 14:40:07,139 EX      107ms 10,3   Entered text in      //*[@id="password"] 	 
+2023-12-29 14:40:09,435 EX     1293ms 10,4   Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 14:40:10,477 EX       40ms 10,5   Verified text in     /html/body/div[3]/form/div[2]/span/b 	 
+2023-12-29 14:40:11,636 EX      147ms 11,2   Entered text in      //*[@id="email"] 	 
+2023-12-29 14:40:12,746 EX      100ms 11,3   Entered text in      //*[@id="password"] 	 
+2023-12-29 14:40:17,469 EX     3706ms 11,4   Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 14:40:38,590 ER     3706ms 11,5   Verified text in     /html/body/div[3]/form/div[2]/span/b 	Unable to locate By.xpath: /html/body/div[3]/form/div[2]/span/b (tried for 5 second(s) with 500 milliseconds interval) 
